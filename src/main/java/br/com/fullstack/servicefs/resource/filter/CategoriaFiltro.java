@@ -1,4 +1,4 @@
-package br.com.fullstack.servicefs.filter;
+package br.com.fullstack.servicefs.resource.filter;
 
 import lombok.Builder;
 
